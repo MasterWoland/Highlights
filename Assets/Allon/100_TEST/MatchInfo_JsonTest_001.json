@@ -1,0 +1,86 @@
+{
+  "MatchTitle": "PSG - FCGuadeloupe",
+  "Description": "Practise match",
+  "PitchWidth": 68.0,
+  "PitchLength": 105.0,
+  "MatchObjectsByID": {
+    "32": {
+      "ObjectID": 32,
+      "Type": 0,
+      "Timestamp": 55535041,
+      "PositionX": 62.133286,
+      "PositionY": 0.0,
+      "PositionZ": 36.794113,
+      "PositionID": 1,
+      "ShirtNumber": 9,
+      "FirstName": "Arnaud",
+      "LastName": "Bolupa"
+    },
+    "18": {
+      "ObjectID": 1,
+      "Type": 0,
+      "Timestamp": 55535041,
+      "PositionX": 43.61572,
+      "PositionY": 0.0,
+      "PositionZ": 57.05083,
+      "PositionID": 3,
+      "ShirtNumber": 23,
+      "FirstName": "Omar",
+      "LastName": "Hanssen"
+    }
+  },
+  "MatchObjectsByIDArray": [
+    {
+      "469": {
+        "ObjectID": 469,
+        "Type": 0,
+        "Timestamp": 1682055,
+        "PositionX": 43.61572,
+        "PositionY": 0.0,
+        "PositionZ": 57.05083,
+        "PositionID": 3,
+        "ShirtNumber": 23,
+        "FirstName": "Olaf",
+        "LastName": "Plunk"
+      },
+      "758": {
+        "ObjectID": 758,
+        "Type": 0,
+        "Timestamp": 1682055,
+        "PositionX": 62.133286,
+        "PositionY": 0.0,
+        "PositionZ": 36.794113,
+        "PositionID": 1,
+        "ShirtNumber": 9,
+        "FirstName": "Pieter",
+        "LastName": "Gram"
+      }
+    },
+    {
+      "125": {
+        "ObjectID": 125,
+        "Type": 0,
+        "Timestamp": 1682055,
+        "PositionX": 43.61572,
+        "PositionY": 0.0,
+        "PositionZ": 57.05083,
+        "PositionID": 3,
+        "ShirtNumber": 23,
+        "FirstName": "Marcel",
+        "LastName": "Troed"
+      },
+      "685": {
+        "ObjectID": 685,
+        "Type": 0,
+        "Timestamp": 1682055,
+        "PositionX": 62.133286,
+        "PositionY": 0.0,
+        "PositionZ": 36.794113,
+        "PositionID": 1,
+        "ShirtNumber": 9,
+        "FirstName": "Karel",
+        "LastName": "Keizer"
+      }
+    }
+  ]
+}

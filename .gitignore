@@ -1,0 +1,54 @@
+Library/
+obj/
+Temp/
+Builds/
+/*Data/
+UnityGenerated/
+Assets/AssetStoreTools*
+Assets/HDRP/
+.gradle/
+FC_Groningen/
+Derby County_Preston/
+FC_Groningen_PSV/
+Queries/
+.vs/
+
+# ===================================== #
+# Rider generated #
+# ===================================== #
+Assets/Plugins/Editor/JetBrains*
+Assets/Plugins/Editor/JetBrains.meta
+.idea/
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+.vs/
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+ProjectSettings/EditorBuildSettings.asset
+QCAR/*
+Logs/
+/*Assets/beffio/
+/*Assets/Samples/High Definition RP/
